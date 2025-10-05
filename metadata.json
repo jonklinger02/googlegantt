@@ -1,0 +1,5 @@
+{
+  "name": "Waterfall Gantt Chart Maker",
+  "description": "An intuitive application to create waterfall-style project schedules and Gantt charts. Users input phases, tasks, milestones, and a final deadline, and the app automatically calculates the entire project timeline by working backward.",
+  "requestFramePermissions": []
+}
